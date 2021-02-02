@@ -114,3 +114,4 @@ commitment!
 ## Thank you!
 
 We really appreciate all kinds of feedback and contributions. Thanks for using and supporting JSHint!
+#1
